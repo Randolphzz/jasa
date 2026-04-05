@@ -1,0 +1,12 @@
+# Current project runtime / test environment
+# Recommended Python: 3.13
+torch>=2.8,<3.0
+numpy>=2.2,<3.0
+soundfile>=0.13,<1.0
+scipy>=1.16,<2.0
+librosa>=0.11,<1.0
+torchaudio>=2.8,<3.0
+pesq>=0.0.4
+pystoi>=0.3.4
+tensorboard>=2.10
+pytest>=8.4,<9.0
